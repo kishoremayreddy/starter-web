@@ -3,6 +3,7 @@
 
 # TEAM
 
+kishore kishore@gmail.com
     <name> -- <role> -- <twitter>
 
 # THANKS
