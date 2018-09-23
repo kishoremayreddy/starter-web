@@ -11,6 +11,8 @@ Sample website with plenty of files for demos
 please fork this repository and issue pull request
 
 ##Deployment
+
+Adding some more text for rebasing example
 ##
 
 # Adding introduction text
