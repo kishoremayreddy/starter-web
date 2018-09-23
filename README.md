@@ -8,6 +8,8 @@ Sample website with plenty of files for demos
 
 ##Explains\
 
+please fork this repository and issue pull request
+
 ##Deployment
 ##
 
