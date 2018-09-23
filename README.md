@@ -19,4 +19,4 @@ Sample website with plenty of files for demos
 
 ##what are you doing my friend
 
-##
+##added copy right
